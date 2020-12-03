@@ -47,6 +47,8 @@ class TransactionsRepository extends Repository<Transaction> {
     return balance;
   }
 
+
+
 }
 
 export default TransactionsRepository;
